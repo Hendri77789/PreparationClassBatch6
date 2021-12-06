@@ -1,0 +1,5 @@
+Perbedaan Penggunaan Ticketing pada Trello vs Jira Vs You Track
+
+- Trello: Ada fitur sprint, Tidak ada fitur Reporting, Bisa digunakan Gratis, sedikit terintegrasi dengan aplikasi lain
+- Jira: Tidak ada fitur sprint, Ada fitur reporting, Tidak bisa digunakan gratis, sudah banyak terintegrasi dengan aplikasi lain 
+- You Track:Lebih murah dibanding Jira, Memiliki fitur lebih banyak, Tidak ada fitur reporting 24 jam
