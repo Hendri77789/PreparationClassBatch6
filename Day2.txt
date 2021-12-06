@@ -1,0 +1,5 @@
+Nama    : Claudia
+Stack   : Frontend
+Bahasa  : Python, PHP, SQL
+Umur    : 19 Tahun
+Asal    : Semarang
