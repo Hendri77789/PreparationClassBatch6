@@ -1,0 +1,5 @@
+Nama    : Hendrianto Arief Hidayat
+Stack   : Backend
+Bahasa  : Python, PHP, SQL
+Umur    : 20 Tahun
+Asal    :
